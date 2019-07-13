@@ -16,6 +16,7 @@ import java.util.Map;
 @MapperScan(basePackages = "com.nbclass.mapper")
 public class SpringbootApplication {
 	public static void main(String[] args) {
+	    //测试.gitignore文件
 		SpringApplication.run(SpringbootApplication.class, args);
 	}
 }
